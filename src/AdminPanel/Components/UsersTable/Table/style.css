@@ -1,0 +1,81 @@
+table {
+  width: 100%;
+  max-width: 1800px;
+  margin: 60px auto;
+}
+
+thead {
+  background-color: #0e0c15;
+  border-radius: 17px;
+  height: 50px;
+  color: #9ca3af;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 18px;
+  letter-spacing: 0em;
+  text-align: center;
+}
+
+th:first-child {
+  border-radius: 8px 0 0 8px;
+}
+
+th:last-child {
+  border-radius: 0 8px 8px 0;
+}
+
+.sort_asc {
+  background-image: url('../../../../assets/arrow-asc.png');
+  background-repeat: no-repeat;
+  background-position: 190px center;
+}
+
+.sort_desc {
+  background-image: url('../../../../assets/arrow-desc.png');
+  background-repeat: no-repeat;
+  background-position: 190px center;
+}
+
+tr {
+  height: 60px;
+}
+
+td {
+  border-bottom: 1px solid #222b44;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 18px;
+  letter-spacing: 0em;
+  text-align: center;
+  color: #ffffff;
+}
+
+.btn {
+  width: 40px;
+  height: 40px;
+  background-color: unset;
+  border: none;
+  outline-style: none;
+  background-repeat: no-repeat;
+  background-position: center;
+  text-align: center;
+}
+
+.btn:hover {
+  cursor: pointer;
+}
+
+.edit-btn {
+  background-image: url('../../../../assets/edit.png');
+  background-size: 25px;
+}
+
+.delete-btn {
+  background-image: url('../../../../assets/Vector.png');
+  background-size: 17px;
+}
+
+.pagination {
+  width: 20%;
+  margin: auto;
+}

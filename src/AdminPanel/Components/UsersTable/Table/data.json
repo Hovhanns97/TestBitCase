@@ -1,0 +1,302 @@
+[
+  {
+    "id": 1,
+    "email": "user_1@mail.com",
+    "name": "user_1",
+    "role": "user",
+    "subscription": "Free",
+    "tokens": 15000,
+    "transaction_history": [
+      { "type": "in", "amount": 1500, "date": "31.10.23, 13:41:19" },
+      { "type": "in", "amount": 12000, "date": "31.10.23, 10:40:20" },
+      { "type": "out", "amount": 1500, "date": "31.10.23, 08:05:58" },
+      { "type": "in", "amount": 2000, "date": "31.10.23, 06:10:17" },
+      { "type": "in", "amount": 1000, "date": "31.10.23, 01:41:19" }
+    ]
+  },
+  {
+    "id": 2,
+    "email": "user_2@mail.com",
+    "name": "user_2",
+    "role": "user",
+    "subscription": "Free",
+    "tokens": 16000,
+    "transaction_history": [
+      { "type": "in", "amount": 1500, "date": "31.10.23, 13:41:19" },
+      { "type": "in", "amount": 12000, "date": "31.10.23, 10:40:20" },
+      { "type": "out", "amount": 1500, "date": "31.10.23, 08:05:58" },
+      { "type": "in", "amount": 2000, "date": "31.10.23, 06:10:17" },
+      { "type": "in", "amount": 1000, "date": "31.10.23, 01:41:19" }
+    ]
+  },
+  {
+    "id": 3,
+    "email": "user_3@mail.com",
+    "name": "user_3",
+    "role": "user",
+    "subscription": "Free",
+    "tokens": 14000,
+    "transaction_history": [
+      { "type": "in", "amount": 1500, "date": "31.10.23, 13:41:19" },
+      { "type": "in", "amount": 12000, "date": "31.10.23, 10:40:20" },
+      { "type": "out", "amount": 1500, "date": "31.10.23, 08:05:58" },
+      { "type": "in", "amount": 2000, "date": "31.10.23, 06:10:17" },
+      { "type": "in", "amount": 1000, "date": "31.10.23, 01:41:19" }
+    ]
+  },
+  {
+    "id": 4,
+    "email": "user_4@mail.com",
+    "name": "user_4",
+    "role": "user",
+    "subscription": "Free",
+    "tokens": 11000,
+    "transaction_history": [
+      { "type": "in", "amount": 1500, "date": "31.10.23, 13:41:19" },
+      { "type": "in", "amount": 12000, "date": "31.10.23, 10:40:20" },
+      { "type": "out", "amount": 1500, "date": "31.10.23, 08:05:58" },
+      { "type": "in", "amount": 2000, "date": "31.10.23, 06:10:17" },
+      { "type": "in", "amount": 1000, "date": "31.10.23, 01:41:19" }
+    ]
+  },
+  {
+    "id": 5,
+    "email": "user_5@mail.com",
+    "name": "user_5",
+    "role": "user",
+    "subscription": "Free",
+    "tokens": 12000,
+    "transaction_history": [
+      { "type": "in", "amount": 1500, "date": "31.10.23, 13:41:19" },
+      { "type": "in", "amount": 12000, "date": "31.10.23, 10:40:20" },
+      { "type": "out", "amount": 1500, "date": "31.10.23, 08:05:58" },
+      { "type": "in", "amount": 2000, "date": "31.10.23, 06:10:17" },
+      { "type": "in", "amount": 1000, "date": "31.10.23, 01:41:19" }
+    ]
+  },
+  {
+    "id": 6,
+    "email": "user_6@mail.com",
+    "name": "user_6",
+    "role": "user",
+    "subscription": "Free",
+    "tokens": 9000,
+    "transaction_history": [
+      { "type": "in", "amount": 1500, "date": "31.10.23, 13:41:19" },
+      { "type": "in", "amount": 12000, "date": "31.10.23, 10:40:20" },
+      { "type": "out", "amount": 1500, "date": "31.10.23, 08:05:58" },
+      { "type": "in", "amount": 2000, "date": "31.10.23, 06:10:17" },
+      { "type": "in", "amount": 1000, "date": "31.10.23, 01:41:19" }
+    ]
+  },
+  {
+    "id": 7,
+    "email": "user_7@mail.com",
+    "name": "user_7",
+    "role": "user",
+    "subscription": "Free",
+    "tokens": 1000,
+    "transaction_history": [
+      { "type": "in", "amount": 1500, "date": "31.10.23, 13:41:19" },
+      { "type": "in", "amount": 12000, "date": "31.10.23, 10:40:20" },
+      { "type": "out", "amount": 1500, "date": "31.10.23, 08:05:58" },
+      { "type": "in", "amount": 2000, "date": "31.10.23, 06:10:17" },
+      { "type": "in", "amount": 1000, "date": "31.10.23, 01:41:19" }
+    ]
+  },
+  {
+    "id": 8,
+    "email": "user_8@mail.com",
+    "name": "user_8",
+    "role": "user",
+    "subscription": "Free",
+    "tokens": 12500,
+    "transaction_history": [
+      { "type": "in", "amount": 1500, "date": "31.10.23, 13:41:19" },
+      { "type": "in", "amount": 12000, "date": "31.10.23, 10:40:20" },
+      { "type": "out", "amount": 1500, "date": "31.10.23, 08:05:58" },
+      { "type": "in", "amount": 2000, "date": "31.10.23, 06:10:17" },
+      { "type": "in", "amount": 1000, "date": "31.10.23, 01:41:19" }
+    ]
+  },
+  {
+    "id": 9,
+    "email": "user_9@mail.com",
+    "name": "user_9",
+    "role": "user",
+    "subscription": "Free",
+    "tokens": 1750,
+    "transaction_history": [
+      { "type": "in", "amount": 1500, "date": "31.10.23, 13:41:19" },
+      { "type": "in", "amount": 12000, "date": "31.10.23, 10:40:20" },
+      { "type": "out", "amount": 1500, "date": "31.10.23, 08:05:58" },
+      { "type": "in", "amount": 2000, "date": "31.10.23, 06:10:17" },
+      { "type": "in", "amount": 1000, "date": "31.10.23, 01:41:19" }
+    ]
+  },
+  {
+    "id": 10,
+    "email": "user_10@mail.com",
+    "name": "user_10",
+    "role": "user",
+    "subscription": "Free",
+    "tokens": 15600,
+    "transaction_history": [
+      { "type": "in", "amount": 1500, "date": "31.10.23, 13:41:19" },
+      { "type": "in", "amount": 12000, "date": "31.10.23, 10:40:20" },
+      { "type": "out", "amount": 1500, "date": "31.10.23, 08:05:58" },
+      { "type": "in", "amount": 2000, "date": "31.10.23, 06:10:17" },
+      { "type": "in", "amount": 1000, "date": "31.10.23, 01:41:19" }
+    ]
+  },
+  {
+    "id": 11,
+    "email": "user_11@mail.com",
+    "name": "user_11",
+    "role": "user",
+    "subscription": "Free",
+    "tokens": 11800,
+    "transaction_history": [
+      { "type": "in", "amount": 1500, "date": "31.10.23, 13:41:19" },
+      { "type": "in", "amount": 12000, "date": "31.10.23, 10:40:20" },
+      { "type": "out", "amount": 1500, "date": "31.10.23, 08:05:58" },
+      { "type": "in", "amount": 2000, "date": "31.10.23, 06:10:17" },
+      { "type": "in", "amount": 1000, "date": "31.10.23, 01:41:19" }
+    ]
+  },
+  {
+    "id": 12,
+    "email": "user_12@mail.com",
+    "name": "user_12",
+    "role": "user",
+    "subscription": "Free",
+    "tokens": 12000,
+    "transaction_history": [
+      { "type": "in", "amount": 1500, "date": "31.10.23, 13:41:19" },
+      { "type": "in", "amount": 12000, "date": "31.10.23, 10:40:20" },
+      { "type": "out", "amount": 1500, "date": "31.10.23, 08:05:58" },
+      { "type": "in", "amount": 2000, "date": "31.10.23, 06:10:17" },
+      { "type": "in", "amount": 1000, "date": "31.10.23, 01:41:19" }
+    ]
+  },
+  {
+    "id": 13,
+    "email": "user_13@mail.com",
+    "name": "user_13",
+    "role": "user",
+    "subscription": "Free",
+    "tokens": 19000,
+    "transaction_history": [
+      { "type": "in", "amount": 1500, "date": "31.10.23, 13:41:19" },
+      { "type": "in", "amount": 12000, "date": "31.10.23, 10:40:20" },
+      { "type": "out", "amount": 1500, "date": "31.10.23, 08:05:58" },
+      { "type": "in", "amount": 2000, "date": "31.10.23, 06:10:17" },
+      { "type": "in", "amount": 1000, "date": "31.10.23, 01:41:19" }
+    ]
+  },
+  {
+    "id": 14,
+    "email": "user_14@mail.com",
+    "name": "user_14",
+    "role": "user",
+    "subscription": "Free",
+    "tokens": 25000,
+    "transaction_history": [
+      { "type": "in", "amount": 1500, "date": "31.10.23, 13:41:19" },
+      { "type": "in", "amount": 12000, "date": "31.10.23, 10:40:20" },
+      { "type": "out", "amount": 1500, "date": "31.10.23, 08:05:58" },
+      { "type": "in", "amount": 2000, "date": "31.10.23, 06:10:17" },
+      { "type": "in", "amount": 1000, "date": "31.10.23, 01:41:19" }
+    ]
+  },
+  {
+    "id": 15,
+    "email": "user_15@mail.com",
+    "name": "user_15",
+    "role": "user",
+    "subscription": "Free",
+    "tokens": 75000,
+    "transaction_history": [
+      { "type": "in", "amount": 1500, "date": "31.10.23, 13:41:19" },
+      { "type": "in", "amount": 12000, "date": "31.10.23, 10:40:20" },
+      { "type": "out", "amount": 1500, "date": "31.10.23, 08:05:58" },
+      { "type": "in", "amount": 2000, "date": "31.10.23, 06:10:17" },
+      { "type": "in", "amount": 1000, "date": "31.10.23, 01:41:19" }
+    ]
+  },
+  {
+    "id": 16,
+    "email": "user_16@mail.com",
+    "name": "user_16",
+    "role": "user",
+    "subscription": "Free",
+    "tokens": 157000,
+    "transaction_history": [
+      { "type": "in", "amount": 1500, "date": "31.10.23, 13:41:19" },
+      { "type": "in", "amount": 12000, "date": "31.10.23, 10:40:20" },
+      { "type": "out", "amount": 1500, "date": "31.10.23, 08:05:58" },
+      { "type": "in", "amount": 2000, "date": "31.10.23, 06:10:17" },
+      { "type": "in", "amount": 1000, "date": "31.10.23, 01:41:19" }
+    ]
+  },
+  {
+    "id": 17,
+    "email": "user_17@mail.com",
+    "name": "user_17",
+    "role": "user",
+    "subscription": "Free",
+    "tokens": 16000,
+    "transaction_history": [
+      { "type": "in", "amount": 1500, "date": "31.10.23, 13:41:19" },
+      { "type": "in", "amount": 12000, "date": "31.10.23, 10:40:20" },
+      { "type": "out", "amount": 1500, "date": "31.10.23, 08:05:58" },
+      { "type": "in", "amount": 2000, "date": "31.10.23, 06:10:17" },
+      { "type": "in", "amount": 1000, "date": "31.10.23, 01:41:19" }
+    ]
+  },
+  {
+    "id": 18,
+    "email": "user_18@mail.com",
+    "name": "user_18",
+    "role": "user",
+    "subscription": "Free",
+    "tokens": 11850,
+    "transaction_history": [
+      { "type": "in", "amount": 1500, "date": "31.10.23, 13:41:19" },
+      { "type": "in", "amount": 12000, "date": "31.10.23, 10:40:20" },
+      { "type": "out", "amount": 1500, "date": "31.10.23, 08:05:58" },
+      { "type": "in", "amount": 2000, "date": "31.10.23, 06:10:17" },
+      { "type": "in", "amount": 1000, "date": "31.10.23, 01:41:19" }
+    ]
+  },
+  {
+    "id": 19,
+    "email": "user_19@mail.com",
+    "name": "user_19",
+    "role": "user",
+    "subscription": "Free",
+    "tokens": 10250,
+    "transaction_history": [
+      { "type": "in", "amount": 1500, "date": "31.10.23, 13:41:19" },
+      { "type": "in", "amount": 12000, "date": "31.10.23, 10:40:20" },
+      { "type": "out", "amount": 1500, "date": "31.10.23, 08:05:58" },
+      { "type": "in", "amount": 2000, "date": "31.10.23, 06:10:17" },
+      { "type": "in", "amount": 1000, "date": "31.10.23, 01:41:19" }
+    ]
+  },
+  {
+    "id": 20,
+    "email": "user_20@mail.com",
+    "name": "user_20",
+    "role": "user",
+    "subscription": "Free",
+    "tokens": 8760,
+    "transaction_history": [
+      { "type": "in", "amount": 1500, "date": "31.10.23, 13:41:19" },
+      { "type": "in", "amount": 12000, "date": "31.10.23, 10:40:20" },
+      { "type": "out", "amount": 1500, "date": "31.10.23, 08:05:58" },
+      { "type": "in", "amount": 2000, "date": "31.10.23, 06:10:17" },
+      { "type": "in", "amount": 1000, "date": "31.10.23, 01:41:19" }
+    ]
+  }
+]

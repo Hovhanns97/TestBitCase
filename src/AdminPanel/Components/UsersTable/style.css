@@ -1,0 +1,51 @@
+.table-wrapper {
+  width: 100%;
+  max-width: 1870px;
+  height: 700px;
+  border-radius: 17px;
+  background: #121825;
+  color: white;
+  font-family: 'IBM Plex Sans', sans-serif;
+  margin-top: 30px;
+}
+
+.table-band {
+  max-width: 1870px;
+  height: 50px;
+  border-bottom: 1px solid #222b44;
+  padding: 0 35px;
+  text-align: center;
+}
+
+.search-block {
+  width: 1800px;
+  height: 50px;
+  padding: 10px 35px;
+}
+
+.table-band h1,
+.search-block h1 {
+  font-family: IBM Plex Sans;
+  font-size: 22px;
+  font-weight: 600;
+  line-height: 29px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+
+.search-input {
+  width: 100%;
+  max-width: 1700px;
+  float: left;
+  height: 40px;
+  outline-style: none;
+  background-color: unset;
+  background-image: url('../../../assets/search-circle.png');
+  background-repeat: no-repeat;
+  background-position: 22px 12px;
+  background-size: 15px;
+  border: 1px solid #222b44;
+  border-radius: 10px;
+  padding: 0 0 0 45px;
+  color: #616d8d;
+}
